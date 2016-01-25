@@ -20,6 +20,7 @@ Why are you taking this course?
 What are your concerns about this course?
 > ...
 1. Coding can be either really frustrating or fun, so it will be interesting to see how that all unfolds. 
+2. Waking up on time!
 
 What topic in this course are you most excited to cover?
 > ...
@@ -51,3 +52,4 @@ You get a 0 on that quiz.
 When are you free during my regularly scheduled office hours?
 > ...
 1. I am free only on your Friday office hours. 
+2. Tuesdays.
