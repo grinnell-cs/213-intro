@@ -30,16 +30,17 @@ Do you have any questions for me?
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2016S/CSC213/syllabus/) for course policies.
 
 What work do you need to complete for this course?
-> 
+> Doing the reading before coming to class, participation, quizzes, labs, and a final project.
 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
-> ...
+> You lose 1.5% of your final grade. However, you have a 3% buffer.
 
 What happens if you turn in a lab late?
-> ...
+> You lose 10% of your grade for each day it is late.
 
 What happens if you miss a quiz?
-> ...
+> You will get a zero, but your lowest quiz score will be dropped.
 
 When are you free during my regularly scheduled office hours?
-> ...
+> Tiffany: All office hours until ~4.
+>> Fengyuan: Any time except Friday
