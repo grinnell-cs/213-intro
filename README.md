@@ -3,22 +3,22 @@ Fill in the text below with your own answers to each question. Add your answers 
 
 ## About You
 What are your names, as they appear on the class roster?
-> ...
+> Tiffany Nguyen
 
 What do you prefer to be called?
-> ...
+> Tiffany
 
 Why are you taking this course?
-> ...
+> I have heard that the class is one of the most interesting and potentially useful CSC courses taken here at Grinnell
 
 What are your concerns about this course?
-> ...
+> Understanding material
 
 What topic in this course are you most excited to cover?
-> ...
+> Parallel Systems
 
 Do you have any questions for me?
-> ...
+> What is the airspeed velocity of an of an unladen swallow?
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2016S/CSC213/syllabus/) for course policies.
