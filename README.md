@@ -37,3 +37,4 @@ What happens if you miss a quiz?
 
 When are you free during my regularly scheduled office hours?
 > Khoa: I'm free during all of your office hours.
+> Sara: Same, free all of your office hours 
