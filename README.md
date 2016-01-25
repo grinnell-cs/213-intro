@@ -5,14 +5,17 @@ Fill in the text below with your own answers to each question. Add your answers 
 What are your names, as they appear on the class roster?
 > ...
 1. William B Creasey
+2. Joel Katticaran
 
 What do you prefer to be called?
 > ...
-1. Blake 
+1. Blake
+2. Joel
 
 Why are you taking this course?
 > ...
-1. I need it to graduate. 
+1. I need it to graduate.
+2. It seemed like an interesting class.
 
 What are your concerns about this course?
 > ...
