@@ -4,20 +4,26 @@ Fill in the text below with your own answers to each question. Add your answers 
 ## About You
 What are your names, as they appear on the class roster?
 > Leah Greenberg
+> Victoria Tsou
 
 What do you prefer to be called?
 > Leah
+> Victoria
 
 Why are you taking this course?
 > Major Requirement
+> I heard it was a very interesting course.
 
 What are your concerns about this course?
 > I know very little about this topic
+> I hope that the material will not be too challenging.
 
 What topic in this course are you most excited to cover?
 > Scheduling
+> Locks
 
 Do you have any questions for me?
+> Nope
 > Nope
 
 ## About this course
