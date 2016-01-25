@@ -4,12 +4,15 @@ Fill in the text below with your own answers to each question. Add your answers 
 ## About You
 What are your names, as they appear on the class roster?
 > ...
+1. William B Creasey
 
 What do you prefer to be called?
 > ...
+1. Blake 
 
 Why are you taking this course?
 > ...
+1. I need it to graduate. 
 
 What are your concerns about this course?
 > ...
