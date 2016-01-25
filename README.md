@@ -4,26 +4,32 @@ Fill in the text below with your own answers to each question. Add your answers 
 ## About You
 What are your names, as they appear on the class roster?
 > Medha Gopalaswamy
+
 > Zoe Wolter
 
 What do you prefer to be called?
 > Medha
+
 > Zoe
 
 Why are you taking this course?
 > Because I'm a CS major
+
 > To learn about systems
 
 What are your concerns about this course?
 > The final project feels slightly intimidating
+
 > I haven't coded in C in a while, so I'm hoping it comes back to me. 
 
 What topic in this course are you most excited to cover?
 > Virtual Memory
+
 > Different types of scheduling
 
 Do you have any questions for me?
 > Nope
+
 > Not at the moment
 
 ## About this course
@@ -43,4 +49,5 @@ What happens if you miss a quiz?
 
 When are you free during my regularly scheduled office hours?
 > Monday 3:45-4:15, Tuesday 2:45-4:00, Friday 3:45-4:15
+
 > Friday 2:45-4:15
