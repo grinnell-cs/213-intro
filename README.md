@@ -4,26 +4,32 @@ Fill in the text below with your own answers to each question. Add your answers 
 ## About You
 What are your names, as they appear on the class roster?
 > Earnest Wheeler
+
 > David Kreis
 
 What do you prefer to be called?
 > Earnest
+
 > Dave
 
 Why are you taking this course?
 > I need it to graduate on time.
+
 > Intended Computer Science major.
 
 What are your concerns about this course?
 > It is at 8 in the morning, four days a week.
+
 > Ditto.
 
 What topic in this course are you most excited to cover?
 > I don't know.
+
 > Operating Systems.
 
 Do you have any questions for me?
 > No.
+
 > Nope.
 
 ## About this course
@@ -43,4 +49,5 @@ What happens if you miss a quiz?
 
 When are you free during my regularly scheduled office hours?
 > I am free during your office hours on MWF.
+
 > I am free during your office hours on Tuesday. - Dave
