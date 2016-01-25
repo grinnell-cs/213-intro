@@ -3,10 +3,10 @@ Fill in the text below with your own answers to each question. Add your answers 
 
 ## About You
 What are your names, as they appear on the class roster?
-> Sara
+> Sara, Khoa
 
 What do you prefer to be called?
-> Sara
+> Sara, Khoa
 
 Why are you taking this course?
 > I am an intended CS major
@@ -33,7 +33,7 @@ What happens if you turn in a lab late?
 > it will be penalized one full letter grade
 
 What happens if you miss a quiz?
-> ...
+> You get zero for that quiz but your lowest quiz score is dropped
 
 When are you free during my regularly scheduled office hours?
-> ...
+> Khoa: I'm free during all of your office hours.
