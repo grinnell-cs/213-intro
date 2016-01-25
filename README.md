@@ -4,27 +4,27 @@ Fill in the text below with your own answers to each question. Add your answers 
 ## About You
 What are your names, as they appear on the class roster?
 > Earnest Wheeler
-David Kreis
+> David Kreis
 
 What do you prefer to be called?
 > Earnest
-Dave
+> Dave
 
 Why are you taking this course?
 > I need it to graduate on time.
-Intended Computer Science major.
+> Intended Computer Science major.
 
 What are your concerns about this course?
 > It is at 8 in the morning, four days a week.
-Ditto.
+> Ditto.
 
 What topic in this course are you most excited to cover?
 > I don't know.
-Operating Systems.
+> Operating Systems.
 
 Do you have any questions for me?
 > No.
-Nope.
+> Nope.
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2016S/CSC213/syllabus/) for course policies.
@@ -43,4 +43,4 @@ What happens if you miss a quiz?
 
 When are you free during my regularly scheduled office hours?
 > I am free during your office hours on MWF.
-I am free during your office hours on Tuesday. - Dave
+> I am free during your office hours on Tuesday. - Dave
