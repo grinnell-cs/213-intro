@@ -21,7 +21,7 @@ Do you have any questions for me?
 > ...
 
 ## About this course
-You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2016S/CSC213/syllabus/) for course policies.
+You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC213/syllabus/) for course policies.
 
 What work do you need to complete for this course?
 > ...
@@ -35,5 +35,5 @@ What happens if you turn in a lab late?
 What happens if you miss a quiz?
 > ...
 
-When are you free during my regularly scheduled office hours?
+When are you free during my scheduled office hours?
 > ...
