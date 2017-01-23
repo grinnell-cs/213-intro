@@ -45,6 +45,6 @@ What happens if you miss a quiz?
 > It is considered as 0 on that quiz. Our lowest quiz grade is dropped before computing your quiz average.
 
 When are you free during my scheduled office hours?
-> JaeEun - I have class from 3 to 3 50 MWF and 2 to 4 on T so I can't really make it to any of your office hours (only have 15 mins time slot)
-  Chiara - I am free from 10-11am Monday, Tuesday, and Wednesday.
+> JaeEun - I am free from 10-11am MTWF.
+  Chiara - I am free from 10-11am MTWF.
 
