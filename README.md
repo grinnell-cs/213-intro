@@ -3,22 +3,28 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names, as they appear on the class roster?
-> JaeEun Oh 
+> JaeEun Oh
+  Chiara Zizza
 
 What are your GitHub usernames?
 > jaeeunoh
+  zizzachi
 
 What do you prefer to be called?
 > JaeEun
+  Chiara
 
 Why are you taking this course?
-> I'm interested in learning to code in C++. 
+> I'm interested in learning to code in C++.
+  I'm interested in the topics covered in this course.
 
 What are your concerns about this course?
-> Making it to class on Tuesdays! 
+> Making it to class on Tuesdays!
+  The amount of coursework.
 
 What topic in this course are you most excited to cover?
-> Lottery Scheduling 
+> Lottery Scheduling
+  Scheduling
 
 Do you have any questions for me?
 > 
@@ -39,5 +45,6 @@ What happens if you miss a quiz?
 > It is considered as 0 on that quiz. Our lowest quiz grade is dropped before computing your quiz average.
 
 When are you free during my scheduled office hours?
-> JaeEun - I have class from 3 to 3 50 MWF and 2 to 4 on T so I can't really make it to any of your office hours (only have 15 mins time slot). 
+> JaeEun - I have class from 3 to 3 50 MWF and 2 to 4 on T so I can't really make it to any of your office hours (only have 15 mins time slot)
+  Chiara - I am free from 10-11am Monday, Tuesday, and Wednesday.
 
