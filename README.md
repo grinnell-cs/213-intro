@@ -3,25 +3,25 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names, as they appear on the class roster?
-> Alex French
+> Ajuna Kyaruzi
 
 What are your GitHub usernames?
-> frenchal17
+> kyaruzia17 
 
 What do you prefer to be called?
-> Alex
+> Ajuna
 
 Why are you taking this course?
-> Because Operating Systems are important (and cool as hell)
+> Because Operating Systems will be very important for my future work and they are cool and I want to know how they work
 
 What are your concerns about this course?
-> It's going to be too short because it's my last semester.
+> That I will be late, I will try really hard. Sorry Charlie.
 
 What topic in this course are you most excited to cover?
-> Galaxies? Sounds awesome.
+> Concurrent Data Structures
 
 Do you have any questions for me?
-> How was your break?
+> Nope! Thanks for not having exams!
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC213/syllabus/) for course policies.
@@ -39,4 +39,4 @@ What happens if you miss a quiz?
 > Charlie might let you make it up.
 
 When are you free during my scheduled office hours?
-> Alex is always free during Charlie's office hours; 
+> Ajuna is free 10 - 10:30 MWF with some wiggle room. 
