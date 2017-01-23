@@ -31,13 +31,13 @@ What work do you need to complete for this course?
 > labs, quizzes, project; labs, quizzes, projects;
 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
-> 
+> You miss the opportunity to learn, but you may miss two classes or arrive late four times with no impact on your final grade.
 
 What happens if you turn in a lab late?
-> ...
+> Labs will be penalized 10% for each day they are late.
 
 What happens if you miss a quiz?
 > Normally, late quizzes are not accepted (potential exceptions made for sickness).
 
 When are you free during my scheduled office hours?
-> ...
+> only Tuesday 10am-11am; none 
