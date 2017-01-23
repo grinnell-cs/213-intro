@@ -3,25 +3,29 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names, as they appear on the class roster?
-> Mattori
+> Mattori // Seth Hanson
 
 What are your GitHub usernames?
-> PsychicNoodles
+> PsychicNoodles // hansonse17
 
 What do you prefer to be called?
-> Mattori
+> Mattori // Seth
 
 Why are you taking this course?
 > To learn lower level Computer Science and maintain my pace of at least 1 CS class per semester.
+> Graduating in May.
 
 What are your concerns about this course?
 > Having trouble with more mathematical operations.
+> Haven't done big math in a while.
 
 What topic in this course are you most excited to cover?
 > Learning about how computers handle parallel execution at a lower level.
+> The basics of operating systems is something I know little about, so the whole thing.
 
 Do you have any questions for me?
 > No.
+> Not yet.
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC213/syllabus/) for course policies.
