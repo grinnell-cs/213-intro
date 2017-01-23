@@ -3,25 +3,25 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names, as they appear on the class roster?
-> ...
+> David Kraemer,
 
 What are your GitHub usernames?
-> ...
+> kraemerd17,
 
 What do you prefer to be called?
-> ...
+> David,
 
 Why are you taking this course?
-> ...
+> I want to learn how to think about parallel algorithms,
 
 What are your concerns about this course?
-> ...
+> That C is unforgivably difficult.
 
 What topic in this course are you most excited to cover?
-> ...
+> Parallel algorithms,
 
 Do you have any questions for me?
-> ...
+> No,
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC213/syllabus/) for course policies.
