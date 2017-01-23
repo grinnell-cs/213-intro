@@ -3,40 +3,40 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names, as they appear on the class roster?
-> ...
+> Alex French
 
 What are your GitHub usernames?
-> ...
+> frenchal17
 
 What do you prefer to be called?
-> ...
+> Alex
 
 Why are you taking this course?
-> ...
+> Because Operating Systems are important (and cool as hell)
 
 What are your concerns about this course?
-> ...
+> It's going to be too short because it's my last semester.
 
 What topic in this course are you most excited to cover?
-> ...
+> Galaxies? Sounds awesome.
 
 Do you have any questions for me?
-> ...
+> How was your break?
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC213/syllabus/) for course policies.
 
 What work do you need to complete for this course?
-> ...
+> Quizzes, Projects, Labs
 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
-> ...
+> After the 3% penalty buffer, 1.5% of final grade deducted per day.
 
 What happens if you turn in a lab late?
-> ...
+> 10% reduction
 
 What happens if you miss a quiz?
-> ...
+> Charlie might let you make it up.
 
 When are you free during my scheduled office hours?
-> ...
+> Alex is always free during Charlie's office hours; 
