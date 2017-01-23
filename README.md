@@ -3,25 +3,30 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names, as they appear on the class roster?
-> Zachary Segall
+> Zachary Segall, Rachel Swoap
+
 
 What are your GitHub usernames?
-> zhhsegall
+> zhhsegall, swoaprac
 
 What do you prefer to be called?
-> Zachary
+> Zachary, Rachel
 
 Why are you taking this course?
 > a) It is a required course for the major b) I want to learn more about lower level computing
+> It is required and seems like it will have lots of useful information
 
 What are your concerns about this course?
 > Doing quizzes again after a long time of not having CS quizzes. Also I heard the labs for this class are really challenging.
+> I am worried about how challenging this course will be, especially the labs
 
 What topic in this course are you most excited to cover?
 > All of them?
+> Everything!
 
 Do you have any questions for me?
 > Not that I can think of.
+> I want to set up regular meeting times -Rachel
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC213/syllabus/) for course policies.
@@ -40,3 +45,4 @@ What happens if you miss a quiz?
 
 When are you free during my scheduled office hours?
 > Zachary: Tuesday, 10 to 11
+> Rachel : Monday 11-12, Wednesday 11-12
