@@ -3,25 +3,32 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names, as they appear on the class roster?
+> Marija Ivica
 > Clara Bertaut
 
 What are your GitHub usernames?
-> maripot 
+> maripot (MI)
+> Wanderspeak (CB)
 
 What do you prefer to be called?
 > Mari
+> Clara
 
 Why are you taking this course?
-> I need it to get the major done
+> I need it to get the major done (MI)
+> Interested in how computers are made/set up (CB)
 
 What are your concerns about this course?
-> No concerns yet 
+> No concerns yet (MI)
+> Too much abstraction? (CB)
 
 What topic in this course are you most excited to cover?
-> I'm excited about all of it! 
+> I'm excited about all of it! (MI)
+> Hardware (CB)
 
 Do you have any questions for me?
-> No
+> No (MI)
+> Nothng yet (CB)
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC213/syllabus/) for course policies.
