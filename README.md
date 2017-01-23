@@ -3,31 +3,32 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names, as they appear on the class roster?
-> Anna Blinderman
+> Anna Blinderman; Maddie Kirwin
 
 What are your GitHub usernames?
-> blinderm
+> blinderm; mkirwin
 
 What do you prefer to be called?
-> Anna
+> Anna; Maddie
 
 Why are you taking this course?
 > I'm interested in the material and want to become proficient in C.
+> I wanna learn about Operating Systems and Parallel Algorithms.
 
 What are your concerns about this course?
-> C
+> C; You just said there were lines for your office every day.
 
 What topic in this course are you most excited to cover?
-> not yet sure
+> not yet sure; C for real.
 
 Do you have any questions for me?
-> Nope!
+> Nope! Nooo.
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC213/syllabus/) for course policies.
 
 What work do you need to complete for this course?
-> labs, quizzes, project
+> labs, quizzes, project; labs, quizzes, projects;
 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
 > 
