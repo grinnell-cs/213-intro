@@ -4,23 +4,30 @@ Fill in the text below with your own answers to each question. Each person in yo
 ## About You
 What are your names, as they appear on the class roster?
 > Marcel Champagne
+> Uzodinma Nwike
 
 What are your GitHub usernames?
 > mnaircckel
+> uzonwike
 
 What do you prefer to be called?
 > Marcel
+> Uzo
 
 Why are you taking this course?
 > To get more experience with lower level programming
+> To learn more about systems.
 
 What are your concerns about this course?
 > Speed of Quizzes
+> Effectiveness of quizzes in determining student competence.
 
 What topic in this course are you most excited to cover?
 > Parallel Programming
+> Concurrency & Threads 
 
 Do you have any questions for me?
+> No
 > No
 
 ## About this course
@@ -40,4 +47,4 @@ What happens if you miss a quiz?
 
 When are you free during my scheduled office hours?
 > Tuesday, 10am–11am, and Monday, Wednesday, Friday 11am–noon (Marcel)
-> 
+> Tuesday, 10am–11am, and Monday, Wednesday, Friday 10–11am (Uzo)
