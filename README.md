@@ -3,40 +3,40 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names, as they appear on the class roster?
-> ...
+Connor Gregorich-Trevor (G-T)
 
 What are your GitHub usernames?
-> ...
+NullCGT
 
 What do you prefer to be called?
-> ...
+G-T
 
 Why are you taking this course?
-> ...
+Because I find software and memory interesting, and want to improve my programming skills.
 
 What are your concerns about this course?
-> ...
+I took C over the summer with PM instead of doing 161, so I'm worried that my base knowledge for memory allocation might be different.
 
 What topic in this course are you most excited to cover?
-> ...
+Shell
 
 Do you have any questions for me?
-> ...
+
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC213/syllabus/) for course policies.
 
 What work do you need to complete for this course?
-> ...
+Quizzes, Labs, and a final project.
 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
-> ...
+Nothing, if it is the first or second offense. After that, it is a 1.5% penalty if you're absent and a 0.75% penalty if you're late.
 
 What happens if you turn in a lab late?
-> ...
+10% penalty per day of lateness.
 
 What happens if you miss a quiz?
-> ...
+Zero, but the lowest quiz is dropped.
 
 When are you free during my scheduled office hours?
-> ...
+Connor: 11-12 Monday and Wednesday.
