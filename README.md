@@ -3,25 +3,25 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names, as they appear on the class roster?
-> Matthew Guthrie
+> Matthew Guthrie, Nikolas Y Takayesu
 
 What are your GitHub usernames?
-> mattjguthrie
+> mattjguthrie, Takayesu
 
 What do you prefer to be called?
-> Matt
+> Matt, Niko
 
 Why are you taking this course?
-> It's required for the major, and seems interesting 
+> It's required for the major, and seems interesting; OS seems pretty cool.
 
 What are your concerns about this course?
-> The 8 AM lab on tuesdays is not my favorite aspect
+> The 8 AM lab on Tuesdays is not my favorite aspect; The 8 AM lab on Tuesdays is not my favorite aspect.
 
 What topic in this course are you most excited to cover?
-> Parallel Patterns looks interesting
+> Parallel Patterns looks interesting; I think that the parallel patterns bit sounds cool.
 
 Do you have any questions for me?
-> no.
+> no; No.
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC213/syllabus/) for course policies.
@@ -39,4 +39,4 @@ What happens if you miss a quiz?
 > Missed quizzes receive a 0.
 
 When are you free during my scheduled office hours?
-> Only on tuesday office hours.
+> (MG) Only on tuesday office hours; (NT) MW 11:00 - 11:45, F, 10:00 - 10:30
