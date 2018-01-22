@@ -3,16 +3,16 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names, as they appear on the class roster?
-> ...
+> Jasper Egge
 
 What are your GitHub usernames?
-> ...
+> EggeJasp
 
 What do you prefer to be called?
-> ...
+> Just Jasper is fine.
 
 Why are you taking this course?
-> ...
+> I
 
 What are your concerns about this course?
 > ...
