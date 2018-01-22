@@ -12,15 +12,19 @@ What do you prefer to be called?
 > Just Jasper is fine. Sam
 
 Why are you taking this course?
-> I. I am taking this course because it is a requirement for the computer science major.
+> I don't know whether I want to major in CS yet. 
+> I am taking this course because it is a requirement for the computer science major.
 
 What are your concerns about this course?
-> ... I haven't done any programming since spring of last year, and that was only Java. 
+> C is not my strongest language.
+> I haven't done any programming since spring of last year, and that was only Java. 
 
 What topic in this course are you most excited to cover?
-> ... I'm excited to learn more about operating systems. 
+> I think program efficiency is realy interesting. 
+> I'm excited to learn more about operating systems. 
 
 Do you have any questions for me?
+> Not currently, no. 
 > ... Not yet.
 
 ## About this course
