@@ -31,16 +31,16 @@ Do you have any questions for me?
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2017S/CSC213/syllabus/) for course policies.
 
 What work do you need to complete for this course?
-> ...
+> Mini-labs, labs, assignments, and a final project. 
 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
-> ...
+> There is no penalty for missing class days; there is a penalty for missing lab days. 
 
 What happens if you turn in a lab late?
-> ...
+> Penalized a full letter grade for each late day. 
 
 What happens if you miss a quiz?
-> ...
+> Trick question; there aren't quizzes. 
 
 When are you free during my scheduled office hours?
-> ...
+> We are both only available on Wednesday. 
